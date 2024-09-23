@@ -1,7 +1,3 @@
-Below is a README template for your Minesweeper game project on GitHub, designed to provide essential details to help users understand and interact with your game. You can adjust the contents to fit more details or sections based on the scope and functionalities of your project.
-
----
-
 # Minesweeper Game in Java
 
 This project is a Java-based implementation of the classic Minesweeper game. It features a graphical user interface using the `javalib` library and allows players to challenge themselves by avoiding mines to clear the board.
